@@ -37,8 +37,4 @@ header {
   background-color: transparent;
   z-index: 3;
 }
-.box-icons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
